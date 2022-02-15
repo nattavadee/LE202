@@ -5,6 +5,7 @@
   ราคา:281 บาท
     
   ลิงค์: https://www.lazada.co.th/products/ab32vg1-risc-v-rt-i3188155265-s11906731265.html?exlaz=d_1:mm_150050845_51350205_2010350205::12:12654756915!117524295342!!!pla-294682000766!c!294682000766!11906731265!267223677&gclid=Cj0KCQiA0p2QBhDvARIsAACSOOPG6bgwphR71NOe20fXsEt78G2uxjnmiE-kPdDqt026oKw8F7HVzG8aAsM6EALw_wcB
+  
   ความเร็ว: 120MHz
   
   หน่วยความจำ: RAM 192KB, 8Mbit FLASH
